@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0)
+   
+
+}
+
+
+.container .img1 {
+    
+    height: 1050px;
+    width: 100vw;
+   
+ 
+}
+h1 {
+    opacity: none;
+    position: absolute;
+top: -20px; 
+left: 600px;
+background: transparent;
+color: rgb(248, 41, 41);
+font-family: papyrus;
+}
+
+span{
+
+font-size: 3.5em;
+
+
+
+}
+
+h1 span {
+    background: transparent;
+  
+}
+
+.div2 {
+    position: absolute;
+   
+    background: transparent;
+    color: rgb(248, 41, 41);
+    font-family: papyrus;
+
+  
+
+  
+ 
+}
+.div2 .img2 {
+    
+    height: 1050px;
+    width: 100vw;
+ 
+}
